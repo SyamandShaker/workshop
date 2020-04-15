@@ -2,9 +2,26 @@
 
 This repository will contain my work in class
 
-## CLI
-This contain my CLI exercices
 ## HTML-CSS
 This contain my HTML-CSS exercices
-## JS
-This contain my JS exercices
+- itmkmvbnb esdsf gdfg
+
+- **Strong**
+- *Italic* ;)
+:/ 
+
+
+### Title 3
+
+### Title forth
+- [X] contant itms
+- [ ] conta :)
+
+#### LINKS
+[This is link](https://github.com/powercoders-lausanne/program/blob/master/Week-01/Day-3.md)
+
+#### IMAGES
+[This is img]()
+
+
+
