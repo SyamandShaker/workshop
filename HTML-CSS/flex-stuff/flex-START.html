@@ -14,29 +14,23 @@
     <!-- DEMO STYLES -->
     <link rel="stylesheet" href="css/demo.css">
 
-		<!-- STYLES FOR THIS PAGE -->
+		<!-- STYLES POUR CETTE PAGE -->
     <style>
-
-      .container {
-        display: flex;
-      }
 
       .container div {
         display: flex;
-        justify-content: center; /*center on X axis*/
-        align-items: center; /*center on Y axis*/
-
-        width: 23%;
+        justify-content: center; /* center on x axis */
+        align-items: center; /* center on y axis */
+        
+        width: 30%;
       }
 
 			.flex {
 				display: flex;
-      }
-      
+			}
 			.flex.wrap {
         flex-wrap: wrap;
-      }
-      
+			}
 			.flex.no-wrap {
 				
 			}
@@ -47,29 +41,32 @@
 				justify-content: space-around;
 			}
 			.space-evenly {
-				justify-content: space-evenly;
+        justify-content: space-evenly;
+				
 			}
 			.flex-start {
-				justify-content: flex-start;
+        justify-content: flex-start;
+				
 			}
 			.flex-end {
-				justify-content: flex-end;
+				
 			}
 			.center-center {
-        
+			 
 			}
 			.align-content {
 				
       }
       .columns {
         flex-direction: column;
+        
       }
       .columns.center {
         align-items: center;
         flex-direction: column-reverse;
       }
       .columns.right {
-        align-items: flex-end;
+        justify-content: flex-end;
       }
 
     </style>
@@ -80,7 +77,6 @@
     <article>
 
       <h1>FLEX STUFF</h1>
-
       <section class="exemple">
         <h2>Flex - basic, no wrap</h2>
         <div class="container flex no-wrap">
@@ -136,6 +132,7 @@
           <div>Flex item 4</div>
           <div>Flex item 5</div>
           <div>Flex item 6</div>
+          <div>Flex item 7</div>
           <div class="holder"></div>
           <div class="holder"></div>
           <div class="holder"></div>

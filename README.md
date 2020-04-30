@@ -1,27 +1,63 @@
-# My workshop
-
+# MY WORKSHOP
 This repository will contain my work in class
 
-## HTML-CSS
-This contain my HTML-CSS exercices
-- itmkmvbnb esdsf gdfg
+This a second paragraph<br>
+This is a br line
 
-- **Strong**
-- *Italic* ;)
-:/ 
+---
+
+## TITLES
+
+# A MAIN TITLE
+
+## A second title
+
+### A third title
+
+#### A forth tile
+
+##### A fifth tile
+
+etc...
+
+---
+
+## LISTS
+
+### This is an unordered list
+- asdasd
+  - **asdasd**
+  - *asdasd*
+  - **asdasd**
+  - *asdasd*
+- ~~asdasd~~
+- asdasd
+- asdasd
+
+### This is an ordered list
+1. asdasd
+   1. asdasd
+   2. asdasd
+   3. asdasd
+   4. asdasd
+2. asdasd
+3. asdasd
+4. asdasd
+
+### This is an checkbox list
+- [ ] to do item
+- [x] asdasd
+- [ ] asdasd
+- [ ] asdasd ;-)
 
 
-### Title 3
+## LINKS
 
-### Title forth
-- [X] contant itms
-- [ ] conta :)
+[This is a relative link](HTML-CSS/index.html)
 
-#### LINKS
-[This is link](https://github.com/powercoders-lausanne/program/blob/master/Week-01/Day-3.md)
-
-#### IMAGES
-[This is img]()
+[This is an absolute link](https://poco.squarelabel.com/tutos/#streaming)
 
 
+## IMAGES
 
+![This an image](https://www.sciencenews.org/wp-content/uploads/2019/01/013019_JR_panda-diet_feat.jpg)
