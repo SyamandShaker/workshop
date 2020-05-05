@@ -3,7 +3,7 @@
 let num = 5;
 let num2 = 10;
 
-//Comparison operators :
+// Comparison operators :
 // > greater than
 // < less than
 // >= greater or equal to
@@ -14,45 +14,45 @@ let num2 = 10;
 // !== not equal and not the same type
 
 //A SIMPLE CONDITION
-if (num > 6){
+/* if (num > 6){
   show("true!");
 }
 else { 
   show("false!")
-}
+} */
 
 // A STRICT EQUALITY CHECK CONDITION
-if(5 === 5){
+/* if(5 === 5){
   show("true!");
 }
 else {
   show("false!")
-}
+} */
 
 
 // A DOUBLE CHECK WITH "OR" (logical operator)
 //One of the conditions must be true
-if(num > 5 || num2 < 30){
+/* if(num > 5 || num2 < 30){
   show("double check OR: true!");
-}
+} */
 
 // A DOUBLE CHECK WITH "AND" (logical operator)
 //both conditions must be true
-if(num > 4 && num2 < 30){
+/* if(num > 4 && num2 < 30){
   show("double check AND: true!");
-}
+} */
 
 
 //USING NOT OERATOR
-if(num != "5"){
+/* if(num != "5"){
   show("not operator: true!");
-}
+} */
 
 //COMPLEX CHECKS
               // FALSE                    //FALSE 
-if((num === 5 && num > 5) || (num2 == 20 && num2 > 20)){
+/* if((num === 5 && num > 5) || (num2 == 20 && num2 > 20)){
   show("complex cond: true!");
-}
+} */
 
 
 
@@ -80,6 +80,6 @@ function message(){
   }
   show("Chalenge message:", message);
 }
-message(15);
+message(7);
 
 
