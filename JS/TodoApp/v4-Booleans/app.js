@@ -47,6 +47,7 @@ let todos = {
     this.displayTodos();
   },
 
+
   /* CHANGE A TODO
   -------------------------------*/
   changeTodo: function(index, text) {
@@ -56,7 +57,6 @@ let todos = {
     this.displayTodos();
 
   },
-
 
 
   /* DELETE A TODO
@@ -70,6 +70,9 @@ let todos = {
 
 
 }
+
+
+show(todos.todoList, "My list");
 
 
 
